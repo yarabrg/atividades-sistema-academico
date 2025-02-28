@@ -1,8 +1,6 @@
-# atividades-sistema-academico
+# Mini Projeto - 5
 
-Mini Projeto - 5
-Descrição:
-No campus da UFC Sobral, a diversidade de atividades acadêmicas, projetos de extensão e eventos requer um sistema eficiente para registro e acompanhamento. Para simular a criação de soluções para essa necessidade, elabore uma plataforma web em React que permite o cadastro de atividades acadêmicas e monitoramento dos participantes.
+Descrição: No campus da UFC Sobral, a diversidade de atividades acadêmicas, projetos de extensão e eventos requer um sistema eficiente para registro e acompanhamento. Para simular a criação de soluções para essa necessidade, elabore uma plataforma web em React que permite o cadastro de atividades acadêmicas e monitoramento dos participantes.
 
 As funcionalidades básicas que o projeto deve ter são:
 
