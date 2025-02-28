@@ -1,10 +1,8 @@
-# Mini Projeto - 5
+# React + Vite
 
-Descrição: No campus da UFC Sobral, a diversidade de atividades acadêmicas, projetos de extensão e eventos requer um sistema eficiente para registro e acompanhamento. Para simular a criação de soluções para essa necessidade, elabore uma plataforma web em React que permite o cadastro de atividades acadêmicas e monitoramento dos participantes.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-As funcionalidades básicas que o projeto deve ter são:
+Currently, two official plugins are available:
 
-- Tela de Cadastro: Formulário para inserir nome da atividade, responsável, data e descrição.
-- Tela de Listagem: Exibir uma lista das atividades cadastradas.
-- Tela de Detalhes: Mostrar detalhes completos de cada atividade cadastrada.
-- Validações: Garantir que os campos obrigatórios estejam preenchidos.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
